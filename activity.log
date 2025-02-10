@@ -56,3 +56,4 @@ Commit at 2025-01-29 16:51:39: Optimize memory usage in training loop
 Commit at 2025-01-31 11:11:25: Update README with more detailed instructions
 Commit at 2025-01-31 17:03:42: Add unit tests for new features
 Commit at 2025-02-03 17:17:09: Improve error handling and logging
+Commit at 2025-02-10 16:03:52: Refactor core logic for better performance
