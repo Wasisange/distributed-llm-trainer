@@ -84,3 +84,4 @@ Commit at 2025-03-20 14:19:22: Optimize memory usage in training loop
 Commit at 2025-03-21 18:10:27: Enhance visualization tools
 Commit at 2025-03-21 15:50:23: Enhance visualization tools
 Commit at 2025-03-21 15:12:45: Update README with more detailed instructions
+Commit at 2025-03-24 18:54:04: Fix minor bug in data processing
