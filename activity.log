@@ -106,3 +106,4 @@ Commit at 2025-04-15 15:59:50: Fix minor bug in data processing
 Commit at 2025-04-16 14:06:21: Refactor core logic for better performance
 Commit at 2025-04-16 17:31:36: Optimize memory usage in training loop
 Commit at 2025-04-17 18:44:27: Improve error handling and logging
+Commit at 2025-04-17 16:42:38: Clean up code and remove deprecated functions
