@@ -127,3 +127,4 @@ Commit at 2025-05-15 14:55:23: Add support for new data formats
 Commit at 2025-05-15 09:31:20: Improve model evaluation metrics
 Commit at 2025-05-16 16:53:31: Enhance visualization tools
 Commit at 2025-05-16 09:57:11: Refactor core logic for better performance
+Commit at 2025-05-19 13:38:00: Clean up code and remove deprecated functions
