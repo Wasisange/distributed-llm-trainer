@@ -134,3 +134,4 @@ Commit at 2025-05-26 15:37:28: Improve model evaluation metrics
 Commit at 2025-05-27 11:55:48: Optimize database queries
 Commit at 2025-06-04 17:22:39: Add support for new data formats
 Commit at 2025-06-05 09:26:40: Clean up code and remove deprecated functions
+Commit at 2025-06-05 18:01:00: Add support for new data formats
