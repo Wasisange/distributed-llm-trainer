@@ -153,3 +153,4 @@ Commit at 2025-06-27 15:08:39: Optimize database queries
 Commit at 2025-07-01 16:30:59: Optimize memory usage in training loop
 Commit at 2025-07-01 12:57:11: Optimize memory usage in training loop
 Commit at 2025-07-01 16:40:04: Optimize memory usage in training loop
+Commit at 2025-07-01 13:16:59: Improve error handling and logging
