@@ -224,3 +224,4 @@ Commit at 2025-09-23 09:15:29: Optimize memory usage in training loop
 Commit at 2025-09-23 17:03:33: Fix minor bug in data processing
 Commit at 2025-09-23 14:00:45: Enhance visualization tools
 Commit at 2025-09-25 09:40:20: Implement new feature requested by users
+Commit at 2025-09-25 17:31:46: Add unit tests for new features
