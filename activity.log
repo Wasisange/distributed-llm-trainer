@@ -236,3 +236,4 @@ Commit at 2025-10-02 16:13:57: Update dependencies to latest versions
 Commit at 2025-10-06 13:42:25: Clean up code and remove deprecated functions
 Commit at 2025-10-10 16:43:40: Fix minor bug in data processing
 Commit at 2025-10-13 15:35:32: Update README with more detailed instructions
+Commit at 2025-10-13 18:18:24: Add unit tests for new features
