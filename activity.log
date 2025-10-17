@@ -243,3 +243,4 @@ Commit at 2025-10-14 13:17:03: Optimize database queries
 Commit at 2025-10-15 14:35:17: Implement new feature requested by users
 Commit at 2025-10-15 17:56:39: Add support for new data formats
 Commit at 2025-10-15 15:00:28: Refactor core logic for better performance
+Commit at 2025-10-17 17:28:53: Update README with more detailed instructions
